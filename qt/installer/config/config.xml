@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Installer>
+    <Name>4xRelay-USB</Name>
+    <Version>1.00.00</Version>
+    <Title>4xRelay-USB win32 Installer</Title>
+    <Publisher>DogRatIan</Publisher>
+    <StartMenuDir>DogRatIan/4xRelay-USB</StartMenuDir>
+    <TargetDir>@ApplicationsDirX86@/4xRelay-USB</TargetDir>
+</Installer>

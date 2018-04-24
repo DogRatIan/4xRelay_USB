@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+    <DisplayName>4xRelay-USB</DisplayName>
+    <Description>4xRelay-USB main program.</Description>
+    <Version>1.00.00</Version>
+    <ReleaseDate>2018-04-22</ReleaseDate>
+    <Licenses>
+        <License name="GNU GENERAL PUBLIC LICENSE Version 3" file="license.txt" />
+    </Licenses>
+    <Default>script</Default>
+    <Script>installscript.qs</Script>
+    <UserInterfaces>
+        <UserInterface>page.ui</UserInterface>
+    </UserInterfaces>
+</Package>

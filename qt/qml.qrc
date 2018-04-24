@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>asset/setting.png</file>
+        <file>qml/HomeForm.ui.qml</file>
+        <file>qml/main.qml</file>
+        <file>qml/dogratian/ImageButton.qml</file>
+        <file>qml/SettingForm.ui.qml</file>
+        <file>asset/case.png</file>
+        <file>asset/usb.png</file>
+        <file>asset/link.png</file>
+        <file>asset/link_broken.png</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>asset/refresh.png</file>
+        <file>asset/app_icon.png</file>
+    </qresource>
+    <qresource prefix="/asset"/>
+</RCC>
